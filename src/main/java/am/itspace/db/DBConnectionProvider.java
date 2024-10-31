@@ -8,6 +8,7 @@ public class DBConnectionProvider {
 
     private static final DBConnectionProvider dbConnectionProvider;
 
+
     static {
         dbConnectionProvider = new DBConnectionProvider();
     }
