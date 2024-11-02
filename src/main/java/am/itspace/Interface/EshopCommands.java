@@ -1,6 +1,7 @@
 package am.itspace.Interface;
 
 public interface EshopCommands {
+
     final String EXIT = "0";
     final String ADD_CATEGORY = "1";
     final String EDIT_CATEGORY_BY_ID = "2";
