@@ -20,8 +20,6 @@ public class DBConnectionProvider {
     private static final String DB_PASSWORD = "root";
 
 
-
-
     private DBConnectionProvider() {
     }
 
